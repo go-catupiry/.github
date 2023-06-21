@@ -1,4 +1,4 @@
-# Catupiry IN DEVELOPMENT!
+# Catupiry
 
 Catupiry is a high-performance web framework for Go with a built-in plugin system and a wide range of modules.
 
